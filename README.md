@@ -9,12 +9,14 @@ Carpeta contenedora del curso "Javascript: Herencia & Interfaces en Orientación
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📌 Comentarios adicionales 
-Proyecto en desarrollo.
+Proyecto culminado.
 
 ## 📂 División/Organización de la carpeta
-* Archivo 
-* Archivo 
-* Archivo 
+* Carpeta cuenta: Carpeta contenedora de la clase padre cuenta y sus clases hijas.
+* Carpeta empleado: Carpeta contenedora de la clase padre empleado y sus clases hijas. 
+* Archivo autenticación: Archivo para autenticar la contraseña del usuario.
+* Archivo cliente: Archivo referente al cliente.
+* Archivo script: Archivo principal del mini programa.
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)

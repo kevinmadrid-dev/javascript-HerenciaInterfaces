@@ -1,12 +1,15 @@
-export class Cliente
-{
+export class cliente {
     nombreCliente;
     dniCliente;
-    rutCliente;
-
-    constructor(nombreCliente, dniCliente, rutCliente) {
+    #clave;
+    
+    constructor(nombreCliente, dniCliente, clave) {
         this.nombreCliente = nombreCliente;
         this.dniCliente = dniCliente;
-        this.rutCliente = rutCliente;
+        this.#clave = clave;
+    }
+
+    autenticable() {
+        return true;
     }
 }

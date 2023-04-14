@@ -1,6 +1,6 @@
 # Javascript - Herencia & Interfaces en Orientación a Objetos
 
-## Sobre el repositorio
+## 📦 Sobre el repositorio
 Carpeta contenedora del curso "Javascript: Herencia & Interfaces en Orientación a Objetos", en la cual se encontrarán archivos referentes a Herencia - Clases abstractas - Sistema interno - Interfaces y Duck Type.
 
 ## ✔️ [El respositorio aquí](https://github.com/K3yJey/javascript-HerenciaInterfaces.git)

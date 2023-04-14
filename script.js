@@ -1,11 +1,11 @@
-import { cliente } from "./cliente.js";
-import { cuentaAhorro } from "./cuenta/cuentaAhorro.js";
-import { cuentaCorriente } from "./cuenta/cuentaCorriente.js";
-import { cuentaNomina } from "./cuenta/cuentaNomina.js";
-import { empleado } from "./empleado/empleado.js";
-import { empleadoDirector } from "./empleado/empleadoDirector.js";
-import { empleadoGerente } from "./empleado/empleadoGerente.js";
-import { autenticacion } from "./autenticacion.js";
+import { cliente } from "./components/cliente.js";
+import { cuentaAhorro } from "./components/cuenta/cuentaAhorro.js";
+import { cuentaCorriente } from "./components/cuenta/cuentaCorriente.js";
+import { cuentaNomina } from "./components/cuenta/cuentaNomina.js";
+import { empleado } from "./components/empleado/empleado.js";
+import { empleadoDirector } from "./components/empleado/empleadoDirector.js";
+import { empleadoGerente } from "./components/empleado/empleadoGerente.js";
+import { autenticacion } from "./components/autenticacion.js";
 
 //Instanciamos un cliente y cuenta 1
 const cliente1 = new cliente("Jesús Romero", "12345678", "987654");

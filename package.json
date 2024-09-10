@@ -1,7 +1,7 @@
 {
   "name": "cuentabanco",
   "version": "1.0.0",
-  "description": "Gestión de cuentas de un Banco, con el tema principal de Orientación de Objetos",
+  "description": "Javascript Inheritance and Interfaces",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

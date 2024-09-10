@@ -26,6 +26,7 @@ const empleado1 = new empleado("Nicolas Ruiz", "16264203", "123456", 100);
 const empleado2 = new empleadoGerente("Luis Román", "05236942", "012345", 150);
 const empleado3 = new empleadoDirector("Oscar Calvez", "03659462", "654321", 200);
 
+//Logs
 console.log(autenticacion.login(empleado1, "123456"));
 console.log(autenticacion.login(empleado2, "123456"));
 console.log(autenticacion.login(empleado3, "654321"));

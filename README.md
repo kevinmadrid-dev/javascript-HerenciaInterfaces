@@ -1,4 +1,4 @@
-# Inheritance & JavaScript Interfaces in Object-Oriented JavaScript
+# Inheritance & Interfaces in JavaScript Object Orientation
 
 ### Description
 
